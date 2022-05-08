@@ -1,0 +1,213 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+}
+
+body {
+    background-color: #8fa0ff;
+
+}
+
+h1, h2, h3 {
+    font-family:'Koulen', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: inherit; 
+}
+
+#barratopo {
+    width:100%;
+    height: 120px;
+    background-color: white;
+    z-index:2;
+    border-bottom: 5px black solid;
+    position:fixed;
+    top:0px;
+}
+
+h2 {
+    display: inline-block;
+    padding: 20px;
+    font-size: 35px;
+    position: relative;
+    top:-150px;
+    margin: 155px;
+}
+
+#titulo {
+    font-size: 140px;
+    color:white;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    margin: 200px;
+    border: 5px rgb(0, 0, 0) solid;
+}
+
+#meutrabalho{
+    color: white;
+    position: relative;
+    top: 280px;
+    font-size: 60px;
+    position: relative;
+    left: 200px;
+    
+
+}
+
+#galeria{
+    width:1850px;
+    height:1200px;
+    display: block;
+    margin:auto;
+    position: relative;
+    top: 280px;
+    background-color: white;
+    border: 5px black solid;
+ }
+ 
+ .pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8{
+    border: 1px solid #ccc;
+    width: 22%;
+    position: absolute;
+    margin:auto;
+    padding:10px;
+ }
+
+
+
+.pic1{
+    top:2%;
+    left:1%;
+}
+.pic1:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic2{
+   top:2%;
+   left:480px;
+}
+.pic2:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic3{
+   top:2%;
+   left:940px;
+}
+.pic3:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic4{
+   top:2%;
+   left:1400px;
+}
+.pic4:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic5{
+   top:615px;
+   left:1%;
+}
+.pic5:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic6{
+   top:615px;
+   left:480px;
+}
+.pic6:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic7{
+   top:615px;
+   left:940px;
+}
+.pic7:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic8{
+   top:615px;
+   left:1400px;
+}
+.pic8:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+
+#sobremim {
+    font-size: 60px;
+    position: relative;
+    left: 920px;
+    color:white;
+    top:650px
+}
+
+#lenita {
+    width: 15%;
+    position: relative;
+    margin:32%;
+    top:-100px;
+    border: 5px solid white;
+}
+
+#textosobremim {
+    color: white;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    left: 920px;
+    top: -920px;
+}
+
+#Contato {
+    font-size: 60px;
+    position: relative;
+    color:white;
+    top:-415px;
+    left: 50%;
+}
+
+#fotoig {
+    width: 10%;
+    position: relative;
+    top: -500px;
+    left:38%;
+
+}
+
+#textocontato {
+    color: white;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    left: 50%;
+    top: -630px;
+}
