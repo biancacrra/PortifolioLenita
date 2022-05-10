@@ -1,0 +1,226 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+}
+
+body {
+    background-color: #8fa0ff;
+}
+
+h1, h2, h3 {
+    font-family:'Koulen', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: inherit; 
+}
+
+#barratopo {
+    width:100%;
+    height: 120px;
+    background-color: white;
+    z-index:2;
+    border-bottom: 5px black solid;
+    position:fixed;
+    top:0px;
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+    font-size: 35px;
+    padding: 50px;
+    margin:30px;
+    position: relative;
+    top: 25px;
+}
+
+#titulo {
+    width: 1903px;
+    position: relative;
+    top: 200px;
+    border-bottom: 5px white solid;
+    border-top: 5px white solid;
+    background-color: black;
+    text-align: center;
+    display: inline-block;
+    
+
+}
+
+h1{
+    color:white;
+    font-size: 180px;
+
+}
+
+#meutrabalho{
+    width: 300px;
+    color: white;
+    position: relative;
+    top: 500px;
+    font-size: 60px;
+    position: relative;
+    left: 15%;
+    display: inline;
+    
+
+}
+#galeria{
+    width:1850px;
+    height:1200px;
+    display: block;
+    margin:auto;
+    position: relative;
+    top: 600px;
+    background-color: white;
+    border: 5px black solid;
+ }
+ 
+ .pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8{
+    border: 1px solid #ccc;
+    width: 22%;
+    position: absolute;
+    margin:auto;
+    padding:10px;
+ }
+
+.pic1{
+    top:2%;
+    left:1%;
+}
+.pic1:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic2{
+   top:2%;
+   left:480px;
+}
+.pic2:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic3{
+   top:2%;
+   left:940px;
+}
+.pic3:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic4{
+   top:2%;
+   left:1400px;
+}
+.pic4:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic5{
+   top:615px;
+   left:1%;
+}
+.pic5:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic6{
+   top:615px;
+   left:480px;
+}
+.pic6:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic7{
+   top:615px;
+   left:940px;
+}
+.pic7:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+.pic8{
+   top:615px;
+   left:1400px;
+}
+.pic8:hover{
+    box-shadow:2px 2px 2px 2px #555151;
+    width:35%;
+    z-index:1;
+    background-color: white;
+}
+
+#sobremim {
+    width:100%;
+    height: 540px;
+    font-size: 60px;
+    position: relative;
+    color:white;
+    top:750px;
+    text-align: center;
+    border-top: 5px white solid;
+    border-bottom: 5px white solid;
+}
+
+#lenita {
+    width: 10%;
+    border: 5px solid white;
+}
+
+
+p {
+    color: white;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.contato {
+    height: 490px;
+    width: 100%;
+    font-size: 60px;
+    position: relative;
+    color:white;
+    top:750px;
+    border-bottom: 5px white solid;
+    text-align:center;
+}
+
+#textocontato {
+    color: white;
+    width: 300px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+#fotoig {
+    width: 10%;
+    position: relative;
+    top:-15px;
+}
+
+
+
+
+#meucontato{}
+   
+
